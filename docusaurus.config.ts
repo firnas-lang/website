@@ -8,7 +8,7 @@ const config: Config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://your-docusaurus-site.example.com',
+  url: 'https://firnas-lang.dev',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
@@ -35,17 +35,11 @@ const config: Config = {
       {
         docs: {
           sidebarPath: './sidebars.ts',
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+          editUrl: 'https://github.com/firnas-lang/website',
         },
         blog: {
-          showReadingTime: true,
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+          showReadingTime: false,
+          editUrl: 'https://github.com/firnas-lang/website.git',
         },
         theme: {
           customCss: './src/css/custom.css',
@@ -60,7 +54,7 @@ const config: Config = {
     navbar: {
       title: 'Firnas',
       logo: {
-        alt: 'My Site Logo',
+        alt: 'Firnas Logo',
         src: 'img/logo.svg',
       },
       items: [
@@ -79,14 +73,14 @@ const config: Config = {
               value: '<hr style="margin: 0.3rem 0;">',
             },
             {
-              href: 'https://github.com/facebook/docusaurus/issues/3526',
+              href: 'https://github.com/firnas-lang/website',
               label: 'Help Us Translate',
             },
           ],
         },
         { to: '/blog', label: 'Blog', position: 'left' },
         {
-          href: 'https://github.com/facebook/docusaurus',
+          href: 'https://github.com/firnas-lang/firnas',
           label: 'GitHub',
           position: 'right',
         },
@@ -130,7 +124,7 @@ const config: Config = {
             },
             {
               label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
+              href: 'https://github.com/firnas-lang/firnas',
             },
           ],
         },
