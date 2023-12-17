@@ -50,7 +50,7 @@ const config: Config = {
 
   themeConfig: {
     // Replace with your project's social card
-    image: 'img/firnas-social-card.jpg',
+    image: 'img/firnas-social-card.jpeg',
     navbar: {
       title: 'Firnas',
       logo: {
