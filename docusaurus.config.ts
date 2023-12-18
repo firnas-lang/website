@@ -106,8 +106,8 @@ const config: Config = {
           title: 'Community',
           items: [
             {
-              label: 'Twitter',
-              href: 'https://twitter.com/docusaurus',
+              label: 'X / Twitter',
+              href: 'https://twitter.com/firnaslang',
             },
           ],
         },
