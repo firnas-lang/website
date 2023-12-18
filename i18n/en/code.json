@@ -294,5 +294,23 @@
   },
   "title": {
     "message": "Firnas"
+  },
+  "feature.oop.title": {
+    "message": "Object-Oriented"
+  },
+  "feature.oop.description": {
+    "message": "Firnas has classes, encapsulation, inheretence, and polymophism"
+  },
+  "feature.vm.title": {
+    "message": "Firnas Virtual Machine"
+  },
+  "feature.vm.description": {
+    "message": "Stack-based virtual machine"
+  },
+  "feature.mem.title": {
+    "message": "Automatic Memory Management"
+  },
+  "feature.mem.description": {
+    "message": "Manages memory using Mark-and-Sweep garbage collection algorithm"
   }
 }

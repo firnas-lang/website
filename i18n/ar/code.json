@@ -299,18 +299,18 @@
     "message": "غرضيّة التوجيه"
   },
   "feature.oop.description": {
-    "message": "تغليف السلوك والحالة معًا، ميراث، وتعددية الاشكال."
+    "message": "تمتاز فرناس بخاصيّة تعدد الأشكال، الأصناف، التغليف، والتوريث"
   },
   "feature.vm.title": {
     "message": "آلة فرناس الفرضيّة"
   },
   "feature.vm.description": {
-    "message": "feature.vm.description"
+    "message": "آلة افتراضية قائمة على الطوابق"
   },
   "feature.mem.title": {
     "message": "ذاكرة إداريّة تلقائيّة"
   },
   "feature.mem.description": {
-    "message": "feature.mem.description"
+    "message": "تتمتّع فرناس بمنظّف يستعمل خوارزميّة التعليم والكنس (Mark and Sweep)"
   }
 }
